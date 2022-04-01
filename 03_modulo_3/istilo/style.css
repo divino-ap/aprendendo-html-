@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+:root{
+    --cor0:rgb(224, 230, 219);
+    --cor1:rgb(143, 206, 235);
+    --cor2:rgb(123, 115, 238);
+    --cor3:rgb(49, 120, 228);
+    
+    --fonte-padrao:arial,verdana,helvetica,sans-serif:
+    --fonte-destaque:
+}
+body{
+    background-color:var(--cor2);
+}
+
+section{
+    background-color: var(--cor4);
+}
