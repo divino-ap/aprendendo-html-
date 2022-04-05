@@ -1,9 +1,12 @@
 @charset "UTF-8";
-
+* {
+    margin: auto;
+    background-color: rgb(185, 194, 146);
+}
 body > h1 {
     text-align: center;
 }
-tr#cabes {
+#cabes {
     color: blue;
 }
 tr.galo {
