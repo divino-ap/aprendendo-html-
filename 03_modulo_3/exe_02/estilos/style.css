@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+body > h1 {
+    text-align: center;
+}
+tr#cabes {
+    color: blue;
+}
+tr.galo {
+    color: aquamarine;
+}
